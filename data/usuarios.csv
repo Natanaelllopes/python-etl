@@ -1,3 +1,3 @@
-nome,conta,cartao
-João,123,Gold
-Maria,456,Platinum
+id,nome,conta,cartao
+1,João,123,Gold
+2,Maria,456,Platinum
